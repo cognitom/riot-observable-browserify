@@ -1,7 +1,7 @@
 {
-  "name": "riot-observer-browserify",
+  "name": "riot-observable-browserify",
   "version": "0.0.1",
-  "description": "A minimal sample for Riot.js observer with Browserify",
+  "description": "A minimal example for Riot.js observer with Browserify",
   "author": "Tsutomu Kawamura <kawamura@cognitom.com>",
   "license": "MIT",
   "private": true,
